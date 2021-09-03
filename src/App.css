@@ -1,4 +1,9 @@
-.App {
+.form {
+  border-width: 5px;
+}
+  
+  
+  /*.App {
   text-align: center;
 }
 
@@ -36,3 +41,4 @@
     transform: rotate(360deg);
   }
 }
+*/
